@@ -1,0 +1,28 @@
+# OMZ Plugins
+getantidote/use-omz
+ohmyzsh/ohmyzsh path:lib
+
+ohmyzsh/ohmyzsh path:plugins/alias-finder
+ohmyzsh/ohmyzsh path:plugins/aliases
+ohmyzsh/ohmyzsh path:plugins/colorize
+ohmyzsh/ohmyzsh path:plugins/copypath
+ohmyzsh/ohmyzsh path:plugins/cp  
+ohmyzsh/ohmyzsh path:plugins/docker
+ohmyzsh/ohmyzsh path:plugins/git 
+ohmyzsh/ohmyzsh path:plugins/git-extras
+ohmyzsh/ohmyzsh path:plugins/otp 
+ohmyzsh/ohmyzsh path:plugins/pip 
+ohmyzsh/ohmyzsh path:plugins/poetry
+ohmyzsh/ohmyzsh path:plugins/poetry-env
+ohmyzsh/ohmyzsh path:plugins/ssh-agent
+ohmyzsh/ohmyzsh path:plugins/thefuck
+ohmyzsh/ohmyzsh path:plugins/torrent
+ohmyzsh/ohmyzsh path:plugins/z
+
+zsh-users/zsh-autosuggestions
+bartboy011/cd-reminder
+zpm-zsh/clipboard
+voidzero/omz-plugin-psgrep
+robertzk/send.zsh
+fdellwing/zsh-bat
+z-shell/zsh-eza
